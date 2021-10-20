@@ -172,11 +172,11 @@ main input{
 
 }
 
-.general, .categorias, .perfil, .foto-perfil, .contraseña, .botones {
+.general, .categorias, .perfil, .foto-perfil, .password, .botones {
     padding-bottom: 20px;
  }
 
-.general input, .contraseña input{
+.general input, .password input{
     height: 2rem;
     width: 88%;
 }
@@ -241,6 +241,7 @@ main h3{
 
 }
 
+
 .botones{
     margin: auto;
 }
@@ -262,6 +263,8 @@ main h3{
 
 .botones button:hover{
     cursor: pointer; 
+    background-color: #0022AA;
+    border-color: #0022AA;
 }
 
 footer {
@@ -401,12 +404,13 @@ footer h6 {
         }
     
     .menu1 li{
-        padding-left: 15px;
-        }
-    
+            padding-left: 1vw;
+            }
+        
     .menu2 li{
-        padding-left: 15px;
-             }
+            padding-right: 1vw;
+                 }
+        
     
     nav  i{
          padding: 0px 0px 0px 1px;

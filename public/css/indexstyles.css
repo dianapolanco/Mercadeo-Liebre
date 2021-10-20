@@ -187,7 +187,7 @@ main article img{
     position: absolute;
     right: 20px;
     top: -15px;
-    transition: all 0.2s linear;
+    transition: all 0.3s linear;
 }
 
 .precio {
@@ -399,11 +399,11 @@ nav a {
     }
 
 .menu1 li{
-    padding-left: 15px;
+    padding-left: 1vw;
     }
 
 .menu2 li{
-    padding-left: 15px;
+    padding-right: 1vw;
          }
 
 nav  i{

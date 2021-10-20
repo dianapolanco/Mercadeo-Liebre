@@ -172,6 +172,7 @@ main input{
     width: 88%;
 }
 
+
 button {
     width: 50%;
     color: white;
@@ -316,12 +317,13 @@ footer h6 {
         }
     
     .menu1 li{
-        padding-left: 15px;
-        }
-    
+            padding-left: 1vw;
+            }
+        
     .menu2 li{
-        padding-left: 15px;
-             }
+            padding-right: 1vw;
+                 }
+        
     
     nav  i{
          padding: 0px 0px 0px 1px;
